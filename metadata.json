@@ -1,0 +1,6 @@
+{
+  "name": "El ABC dario del Orgasmo Femenino - Landing Page Oficial",
+  "description": "Página de venta y checkout oficial para el libro 'El ABC dario del Orgasmo Femenino' de Héctor D.M.S. alojado en Hotmart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
